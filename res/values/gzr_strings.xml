@@ -16,6 +16,10 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- WolvesDen -->
+    <string name="wolvesden_title">WolvesDen</string>
+    <string name="header_category_wolvesden">Customization</string>
+
     <!-- Validus version -->
     <string name="mod_version">Validus version</string>
     <string name="mod_version_default">Unknown</string>
